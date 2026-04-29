@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🔗 Live Demo
-**[Try the Live Application](https://employee-burnout-prediction-qmmv.onrender.com/)**
+**[Try the Live Application](https://employee-burnout-prediction-90k8.onrender.com/)**
 
 ## 📋 Project Overview
 
@@ -210,4 +210,4 @@ http://localhost:5000
 
 ⭐ **Star this repository if you found it helpful!** ⭐
 
-**Live Demo**: [https://employee-burnout-prediction-qmmv.onrender.com/](https://employee-burnout-prediction-qmmv.onrender.com/)
+**Live Demo**: [https://employee-burnout-prediction-90k8.onrender.com/](https://employee-burnout-prediction-90k8.onrender.com/)
